@@ -1,6 +1,6 @@
 i dont feel coding but this is open source :D
 
-# so ya Some browsers block JavaScript features for local files, so using a local server is better.
+*so ya Some browsers block JavaScript features for local files, so using a local server is better.
 > If you have Python installed: Open your terminal/command prompt. Navigate to your project folder: cd ur files
 
 
